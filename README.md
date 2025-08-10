@@ -69,11 +69,7 @@
 
 ## 📊 GitHub & LeetCode Stats  
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahaelango&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaelango&theme=radical" height="150"/>
-</p>
+
 
 <p align="center">
   <!-- Top Languages -->
