@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mahalakshmi E</h1>
+<h1 align="center"> I'm Mahalakshmi E</h1>
 <h3 align="center">🚀 AI & Full-Stack Developer | 💡 Passionate about Machine Learning, Web Development & Data Analytics</h3>
 
 ---
